@@ -41,11 +41,11 @@ p {
 
 
 .submit-color {
-  background-color: #DE660D;
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
   margin: 0 auto;
+  background-color: #17a2b8
 }
 
 .submit-color:hover {
